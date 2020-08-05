@@ -1,0 +1,23 @@
+{
+  "name": "Buildable_Gallery",
+  "version": "1.0.0",
+  "description": "this repo is functional test for gallery-via",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitepurple/Buildable_Gallery.git"
+  },
+  "keywords": [],
+  "author": "WhitePurple",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitepurple/Buildable_Gallery/issues",
+    "email": "rofetist@gmail.com"
+  },
+  "homepage": "https://github.com/whitepurple/Buildable_Gallery#readme"
+}
